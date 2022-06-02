@@ -28,3 +28,13 @@ function multiply(a, b){
 return  a * b
 }
 ```
+## Experience
+I have no experience in this field. But there is a great desire to acquire it.
+
+## Education
+* Samara State Technical University
+    * Faculty of Automation and Information Technology
+
+Language
+* Russian
+* English (level - А2)
